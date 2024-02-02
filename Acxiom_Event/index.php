@@ -15,14 +15,14 @@
     ?>
     <div class="flex-container">
         <div class="flex-items">
-            <h1>Help Students Reach <br/> Their Potential.</h1>
-            <p>Event management refers to the process of planning, <br/>
-            organizing, and executing events, which can range from <br/>
-            small, private gatherings to large-scale conferences, weddings,<br/>
-            trade shows, and other significant occasions. The primary goal<br/> 
-            of event management is to ensure the seamless and successful <br/> 
-            execution of an event, meeting the objectives and expectations<br/>
-            of the organizers and participants....<a href="#">Read more</a></p>
+            <h1>Helping Students Reach <br/> Their Potential.</h1>
+            <p>Event management involves the coordination and implementation 
+                of events, encompassing everything from intimate, private 
+                affairs to grand-scale events like conferences, weddings, and 
+                trade exhibitions. Its main aim is to facilitate a smooth and 
+                effective event realization, achieving the goals and fulfilling 
+                the anticipations of both organizers and attendees. ...<a href="#">
+                Read more</a></p>
         </div>
         <div class="flex-items">
             <img src="./images/deshboard.svg" alt="deshboard"/>
